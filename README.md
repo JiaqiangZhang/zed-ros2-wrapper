@@ -10,10 +10,6 @@
 
 <hr>
 
-## ***GALACTIC Modification***
-Use v4.0.8 SDK and code
-
-
 This package lets you use the ZED stereo cameras with ROS2. It provides access to the following data:
 
   - Left and right rectified/unrectified images
@@ -27,6 +23,10 @@ This package lets you use the ZED stereo cameras with ROS2. It provides access t
 [More information](https://www.stereolabs.com/docs/ros2/getting-started/)
 
 ![](https://cdn.stereolabs.com/docs/ros/images/PointCloud_Depth_ROS.jpg)
+
+
+## ***GALACTIC Modification***
+Use v4.0.8 SDK and code
 
 ## Installation
 
